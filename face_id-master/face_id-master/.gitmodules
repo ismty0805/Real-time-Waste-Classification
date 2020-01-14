@@ -1,0 +1,6 @@
+[submodule "AttCheck"]
+	path = AttCheck
+	url = https://github.com/uchaan/AttCheck.git
+[submodule "LoginAdmin"]
+	path = LoginAdmin
+	url = https://github.com/KangsanKim07/LoginAdmin.git
